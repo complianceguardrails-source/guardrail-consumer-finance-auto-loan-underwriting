@@ -1,0 +1,20 @@
+{
+  "guardrail_package_metadata": {
+    "name": "guardrail-auto-loan-underwriting",
+    "use_case": "Auto Loan Underwriting",
+    "sector": "Consumer Finance",
+    "modality": "structured",
+    "risk_tier": "high_risk",
+    "active_semver": "v0.1.0",
+    "framework": "open_policy_agent",
+    "indexed_global_regulatory_dependencies": [
+      {
+        "legal_reference_id": "USA-curated-list:ModelOriented/MAIR-https-legistar-council-nyc-gov-LegislationDetail-aspx-ID-4265421-GUID-FBA29B34-9266-4B52-B438-A772D81B1CB5-Options-Search",
+        "authority": "curated-list:ModelOriented/MAIR",
+        "jurisdiction": "USA",
+        "source_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=4265421&GUID=FBA29B34-9266-4B52-B438-A772D81B1CB5&Options=&Search=",
+        "mandate": "[Formal regulations] NY: Reporting on automated decision systems used by city agencies."
+      }
+    ]
+  }
+}
